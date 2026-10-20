@@ -1,0 +1,6 @@
+release/*.zip
+release/staging/
+test-output/
+.DS_Store
+Thumbs.db
+
