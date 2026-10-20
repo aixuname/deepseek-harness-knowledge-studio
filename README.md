@@ -31,7 +31,7 @@
 
 ## 安装
 
-1. 从 [Releases](../../releases/latest) 下载 `knowledge-studio-windows-x64-v0.1.0-rc.5.zip`。
+1. 从 [v0.1.0-rc.5 发布页](https://github.com/aixuname/deepseek-harness-knowledge-studio/releases/tag/v0.1.0-rc.5) 下载 `knowledge-studio-windows-x64-v0.1.0-rc.5.zip`。
 2. 解压 ZIP，并完全退出 DeepSeek Harness。
 3. 双击 `install.cmd`。
 4. 重启 Harness，在侧边栏进入“知识库”。
